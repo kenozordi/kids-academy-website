@@ -1,0 +1,305 @@
+$flaticon_education-font: "flaticon_education";
+
+@font-face {
+    font-family: $flaticon_education-font;
+    src: url("./flaticon_education.ttf?877ec50832e2fc0503090eb64151d07e") format("truetype"),
+url("./flaticon_education.woff?877ec50832e2fc0503090eb64151d07e") format("woff"),
+url("./flaticon_education.woff2?877ec50832e2fc0503090eb64151d07e") format("woff2"),
+url("./flaticon_education.eot?877ec50832e2fc0503090eb64151d07e#iefix") format("embedded-opentype"),
+url("./flaticon_education.svg?877ec50832e2fc0503090eb64151d07e#flaticon_education") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon_education !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+$flaticon_education-map: (
+    "quote": "\f101",
+    "play-button": "\f102",
+    "quotation": "\f103",
+    "instagram": "\f104",
+    "maps-and-flags": "\f105",
+    "play": "\f106",
+    "youtube": "\f107",
+    "linkedin": "\f108",
+    "instagram-1": "\f109",
+    "twitter": "\f10a",
+    "facebook-app-symbol": "\f10b",
+    "calendar": "\f10c",
+    "comment-white-oval-bubble": "\f10d",
+    "user": "\f10e",
+    "phone-call": "\f10f",
+    "house": "\f110",
+    "email": "\f111",
+    "location": "\f112",
+    "send": "\f113",
+    "telephone": "\f114",
+    "placeholder": "\f115",
+    "left-quote": "\f116",
+    "right-arrows": "\f117",
+    "right-arrow": "\f118",
+    "24-hours-support": "\f119",
+    "customer-service": "\f11a",
+    "telephone-1": "\f11b",
+    "email-1": "\f11c",
+    "right-quote-sign": "\f11d",
+    "google-plus": "\f11e",
+    "location-1": "\f11f",
+    "mail": "\f120",
+    "play-button-1": "\f121",
+    "checked": "\f122",
+    "right-arrow-1": "\f123",
+    "left-arrow": "\f124",
+    "right-arrow-2": "\f125",
+    "left-arrow-1": "\f126",
+    "left-arrow-2": "\f127",
+    "next": "\f128",
+    "phone-call-1": "\f129",
+    "search": "\f12a",
+    "shopping-cart": "\f12b",
+    "email-2": "\f12c",
+    "pinterest": "\f12d",
+    "shopping-bag": "\f12e",
+    "quote-1": "\f12f",
+    "smile": "\f130",
+    "play-1": "\f131",
+    "search-1": "\f132",
+    "next-1": "\f133",
+    "medal": "\f134",
+    "paint-palette": "\f135",
+    "responsible": "\f136",
+    "medal-1": "\f137",
+    "e-learning": "\f138",
+    "support": "\f139",
+    "agenda": "\f13a",
+    "reading-book": "\f13b",
+    "star": "\f13c",
+    "knowledge": "\f13d",
+    "code": "\f13e",
+    "megaphone": "\f13f",
+    "user-experience": "\f140",
+    "right-arrow-3": "\f141",
+    "training": "\f142",
+    "video-lesson": "\f143",
+    "training-1": "\f144",
+    "award": "\f145",
+    "team": "\f146",
+);
+
+.flaticon-quote:before {
+    content: map-get($flaticon_education-map, "quote");
+}
+.flaticon-play-button:before {
+    content: map-get($flaticon_education-map, "play-button");
+}
+.flaticon-quotation:before {
+    content: map-get($flaticon_education-map, "quotation");
+}
+.flaticon-instagram:before {
+    content: map-get($flaticon_education-map, "instagram");
+}
+.flaticon-maps-and-flags:before {
+    content: map-get($flaticon_education-map, "maps-and-flags");
+}
+.flaticon-play:before {
+    content: map-get($flaticon_education-map, "play");
+}
+.flaticon-youtube:before {
+    content: map-get($flaticon_education-map, "youtube");
+}
+.flaticon-linkedin:before {
+    content: map-get($flaticon_education-map, "linkedin");
+}
+.flaticon-instagram-1:before {
+    content: map-get($flaticon_education-map, "instagram-1");
+}
+.flaticon-twitter:before {
+    content: map-get($flaticon_education-map, "twitter");
+}
+.flaticon-facebook-app-symbol:before {
+    content: map-get($flaticon_education-map, "facebook-app-symbol");
+}
+.flaticon-calendar:before {
+    content: map-get($flaticon_education-map, "calendar");
+}
+.flaticon-comment-white-oval-bubble:before {
+    content: map-get($flaticon_education-map, "comment-white-oval-bubble");
+}
+.flaticon-user:before {
+    content: map-get($flaticon_education-map, "user");
+}
+.flaticon-phone-call:before {
+    content: map-get($flaticon_education-map, "phone-call");
+}
+.flaticon-house:before {
+    content: map-get($flaticon_education-map, "house");
+}
+.flaticon-email:before {
+    content: map-get($flaticon_education-map, "email");
+}
+.flaticon-location:before {
+    content: map-get($flaticon_education-map, "location");
+}
+.flaticon-send:before {
+    content: map-get($flaticon_education-map, "send");
+}
+.flaticon-telephone:before {
+    content: map-get($flaticon_education-map, "telephone");
+}
+.flaticon-placeholder:before {
+    content: map-get($flaticon_education-map, "placeholder");
+}
+.flaticon-left-quote:before {
+    content: map-get($flaticon_education-map, "left-quote");
+}
+.flaticon-right-arrows:before {
+    content: map-get($flaticon_education-map, "right-arrows");
+}
+.flaticon-right-arrow:before {
+    content: map-get($flaticon_education-map, "right-arrow");
+}
+.flaticon-24-hours-support:before {
+    content: map-get($flaticon_education-map, "24-hours-support");
+}
+.flaticon-customer-service:before {
+    content: map-get($flaticon_education-map, "customer-service");
+}
+.flaticon-telephone-1:before {
+    content: map-get($flaticon_education-map, "telephone-1");
+}
+.flaticon-email-1:before {
+    content: map-get($flaticon_education-map, "email-1");
+}
+.flaticon-right-quote-sign:before {
+    content: map-get($flaticon_education-map, "right-quote-sign");
+}
+.flaticon-google-plus:before {
+    content: map-get($flaticon_education-map, "google-plus");
+}
+.flaticon-location-1:before {
+    content: map-get($flaticon_education-map, "location-1");
+}
+.flaticon-mail:before {
+    content: map-get($flaticon_education-map, "mail");
+}
+.flaticon-play-button-1:before {
+    content: map-get($flaticon_education-map, "play-button-1");
+}
+.flaticon-checked:before {
+    content: map-get($flaticon_education-map, "checked");
+}
+.flaticon-right-arrow-1:before {
+    content: map-get($flaticon_education-map, "right-arrow-1");
+}
+.flaticon-left-arrow:before {
+    content: map-get($flaticon_education-map, "left-arrow");
+}
+.flaticon-right-arrow-2:before {
+    content: map-get($flaticon_education-map, "right-arrow-2");
+}
+.flaticon-left-arrow-1:before {
+    content: map-get($flaticon_education-map, "left-arrow-1");
+}
+.flaticon-left-arrow-2:before {
+    content: map-get($flaticon_education-map, "left-arrow-2");
+}
+.flaticon-next:before {
+    content: map-get($flaticon_education-map, "next");
+}
+.flaticon-phone-call-1:before {
+    content: map-get($flaticon_education-map, "phone-call-1");
+}
+.flaticon-search:before {
+    content: map-get($flaticon_education-map, "search");
+}
+.flaticon-shopping-cart:before {
+    content: map-get($flaticon_education-map, "shopping-cart");
+}
+.flaticon-email-2:before {
+    content: map-get($flaticon_education-map, "email-2");
+}
+.flaticon-pinterest:before {
+    content: map-get($flaticon_education-map, "pinterest");
+}
+.flaticon-shopping-bag:before {
+    content: map-get($flaticon_education-map, "shopping-bag");
+}
+.flaticon-quote-1:before {
+    content: map-get($flaticon_education-map, "quote-1");
+}
+.flaticon-smile:before {
+    content: map-get($flaticon_education-map, "smile");
+}
+.flaticon-play-1:before {
+    content: map-get($flaticon_education-map, "play-1");
+}
+.flaticon-search-1:before {
+    content: map-get($flaticon_education-map, "search-1");
+}
+.flaticon-next-1:before {
+    content: map-get($flaticon_education-map, "next-1");
+}
+.flaticon-medal:before {
+    content: map-get($flaticon_education-map, "medal");
+}
+.flaticon-paint-palette:before {
+    content: map-get($flaticon_education-map, "paint-palette");
+}
+.flaticon-responsible:before {
+    content: map-get($flaticon_education-map, "responsible");
+}
+.flaticon-medal-1:before {
+    content: map-get($flaticon_education-map, "medal-1");
+}
+.flaticon-e-learning:before {
+    content: map-get($flaticon_education-map, "e-learning");
+}
+.flaticon-support:before {
+    content: map-get($flaticon_education-map, "support");
+}
+.flaticon-agenda:before {
+    content: map-get($flaticon_education-map, "agenda");
+}
+.flaticon-reading-book:before {
+    content: map-get($flaticon_education-map, "reading-book");
+}
+.flaticon-star:before {
+    content: map-get($flaticon_education-map, "star");
+}
+.flaticon-knowledge:before {
+    content: map-get($flaticon_education-map, "knowledge");
+}
+.flaticon-code:before {
+    content: map-get($flaticon_education-map, "code");
+}
+.flaticon-megaphone:before {
+    content: map-get($flaticon_education-map, "megaphone");
+}
+.flaticon-user-experience:before {
+    content: map-get($flaticon_education-map, "user-experience");
+}
+.flaticon-right-arrow-3:before {
+    content: map-get($flaticon_education-map, "right-arrow-3");
+}
+.flaticon-training:before {
+    content: map-get($flaticon_education-map, "training");
+}
+.flaticon-video-lesson:before {
+    content: map-get($flaticon_education-map, "video-lesson");
+}
+.flaticon-training-1:before {
+    content: map-get($flaticon_education-map, "training-1");
+}
+.flaticon-award:before {
+    content: map-get($flaticon_education-map, "award");
+}
+.flaticon-team:before {
+    content: map-get($flaticon_education-map, "team");
+}

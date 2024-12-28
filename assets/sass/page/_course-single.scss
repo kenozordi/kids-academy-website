@@ -1,0 +1,276 @@
+/*----------------------------------------------
+10. course-details-page
+----------------------------------------------*/
+
+.wpo-course-details-tab {
+    padding: 15px 30px;
+    border: 1px solid #ebebeb;
+    margin-top: 40px;
+}
+
+.wpo-course-details-tab .nav li a {
+    display: block;
+    width: 160px;
+    height: 45px;
+    line-height: 30px;
+    text-align: center;
+    border-radius: 40px;
+    color: #2d4277;
+    transition: all .5s;
+    font-weight: 600;
+    box-shadow: 0px 1px 10px 0px rgba(0, 0, 0, 0.1);
+    margin-right: 10px;
+    border: none;
+    text-transform: capitalize;
+}
+
+.wpo-course-details-tab .nav li a.active,
+.wpo-course-details-tab .nav li a:hover {
+    background: $theme-primary-color-s2;
+    color: #fff;
+    outline: none;
+    border-radius: 40px;
+    border: none;
+}
+
+.nav-tabs {
+    border-bottom: none;
+
+    @media(max-width:767px) {
+        justify-content: center;
+    }
+}
+
+.wpo-course-details-text {
+    margin-top: 50px;
+}
+
+.course-b-text {
+    margin-top: 40px;
+}
+
+#Description {
+    padding: 15px 30px;
+    border: 1px solid #ebebeb;
+
+    @media(max-width:575px) {
+        padding: 15px 2px;
+    }
+}
+
+.wpo-course-details-text .wpo-course-text-top p {
+    margin-bottom: 30px;
+}
+
+.wpo-course-details-tab .event-b-text {
+    margin-top: 40px;
+}
+
+.wpo-course-details-text .wpo-course-content h2 {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.wpo-course-details-text .wpo-course-content h3 {
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+.course-bb-text ul {
+    display: unset;
+    list-style: none;
+}
+
+.course-bb-text ul li {
+    font-size: 18px;
+    position: relative;
+    padding-left: 20px;
+    padding-bottom: 10px;
+}
+
+.course-bb-text ul li:before {
+    content: "";
+    background: $theme-primary-color;
+    width: 6px;
+    height: 6px;
+    position: absolute;
+    left: 0;
+    top: 7px;
+}
+
+.wpo-course-details-area .wpo-blog-single-section .comments-area {
+    margin-top: 0;
+}
+
+@media(max-width: 992px) {
+    .wpo-event-details-wrap {
+        margin-bottom: 30px;
+    }
+}
+
+.wpo-course-details-text .wpo-course-content {
+    .course-curriculam {
+        margin-top: 20px;
+
+        ul {
+            list-style: none;
+
+            li {
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                border-bottom: 1px solid $border-color;
+                padding-bottom: 20px;
+                margin-bottom: 20px;
+
+                span {
+                    font-size: 20px;
+                    color: $dark-gray;
+                    font-weight: 700;
+                    display: flex;
+                    align-items: center;
+
+                    a {
+                        font-size: 16px;
+                        display: inline-block;
+                        padding: 5px 10px;
+                        background: $theme-primary-color-s5;
+                        color: $white;
+                        margin-left: 10px;
+                        border-radius: 20px;
+                    }
+
+                    i {
+                        margin-right: 10px;
+                        color: $theme-primary-color-s5;
+
+                        &.flaticon-play-button {
+                            width: 40px;
+                            height: 40px;
+                            line-height: 40px;
+                            border: 1px solid $theme-primary-color-s5;
+                            display: inline-block;
+                            text-align: center;
+                            border-radius: 50%;
+                            color: $theme-primary-color-s5;
+                        }
+
+                        &.flaticon-e-learning,
+                        &.flaticon-knowledge {
+                            font-size: 30px;
+                        }
+                    }
+                }
+
+                small {
+                    font-size: 18px;
+                }
+            }
+        }
+    }
+}
+
+@media(max-width: 590px) {
+    .wpo-course-details-text .wpo-course-content h2 {
+        font-size: 18px;
+    }
+
+    .wpo-course-details-tab .nav li a {
+        margin-bottom: 20px;
+    }
+
+    .wpo-course-details-tab .nav li:last-child a {
+        margin-bottom: 0;
+    }
+
+    .wpo-course-details-text .wpo-course-text-top {
+        padding: 8px;
+    }
+}
+
+.features-widget {
+    padding: 20px;
+    box-shadow: 0px 2px 8px 0px rgba(0, 12, 55, 0.1);
+    border-radius: 5px;
+
+    .features-top {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 20px;
+        align-items: center;
+
+        h4 {
+            font-size: 22px;
+            margin-bottom: 0;
+            font-weight: 700;
+
+            del {
+                color: #6b7385;
+                font-weight: 400;
+            }
+        }
+
+        span {
+            display: inline-block;
+            padding: 5px 15px;
+            background: #EEF9F6;
+        }
+    }
+
+    .cart-btn {
+        a {
+            width: 100%;
+        }
+    }
+
+    ul {
+        list-style: none;
+        margin-top: 30px;
+
+        li {
+            padding-bottom: 15px;
+            margin-bottom: 15px;
+            border-bottom: 1px solid #ebeaea;
+            display: flex;
+            justify-content: space-between;
+
+            span {
+                display: inline-block;
+                padding: 3px 10px;
+                background: #f7f7f7;
+                border-radius: 3px;
+                font-size: 15px;
+            }
+
+            &:last-child {
+                padding-bottom: 0;
+                margin-bottom: 0;
+                border-bottom: 0;
+            }
+        }
+    }
+}
+
+.wpo-course-details-area{
+    .recent-post-widget {
+        padding: 20px;
+        box-shadow: 0px 2px 8px 0px rgba(0, 12, 55, 0.1);
+        border-radius: 5px;
+    }  
+
+    .course-sitebar {
+        min-height: 100%;
+
+        .blog-sidebar {
+            position: -webkit-sticky;
+            position: sticky;
+            top: 100px;
+
+            @media (max-width:1199px){
+             padding-left: 0;
+            }
+        }
+    }
+
+}
