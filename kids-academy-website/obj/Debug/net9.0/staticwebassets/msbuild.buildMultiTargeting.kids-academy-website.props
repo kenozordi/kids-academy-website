@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\kids-academy-website.props" />
+</Project>
