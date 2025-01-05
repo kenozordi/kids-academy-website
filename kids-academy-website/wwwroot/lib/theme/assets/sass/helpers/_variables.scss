@@ -1,0 +1,36 @@
+/*---------------------------
+	Fonts
+----------------------------*/
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:wght@300;400;500;600;700;800;900&display=swap');
+
+// fonts
+$base-font-size: 15;
+$base-font: 'Urbanist';
+$heading-font:'Urbanist';
+
+
+// color
+$dark-gray: #1A1729; //
+$body-color: #625F71;
+$white: #fff; //
+$light: #FFEBEB; //
+$black: #000;
+$small-black: #333;
+$cyan: #848892; //
+
+$theme-primary-color: #4540E1; //
+$theme-primary-color-s2: #F2BC00; //
+$theme-primary-color-s3: #15A280; //
+$theme-primary-color-s4: #0467FD; //
+$theme-primary-color-s5: #F9406C; //
+$theme-primary-color-s6: #FF4C27; //
+$theme-primary-color-gradient:linear-gradient(90deg, #ED6B37 11.32%, #EC180C 95.28%); //
+$body-bg-color: #fff;
+$section-bg-color: #FCF9EF; //
+$section-bg-color-s2: #F8F2F2; //
+$text-color: #625F71; //
+$text-light-color: #BFC4DC; //
+$text-light-color-s2: #989AA5; //
+$heading-color: $dark-gray;
+$border-color: #D9D9D9;
+$border-color-s2: #DDDDDD;

@@ -1,0 +1,297 @@
+@charset "UTF-8";
+@font-face {
+  font-family: "flaticon_education";
+  src: url("./flaticon_education.ttf?877ec50832e2fc0503090eb64151d07e") format("truetype"), url("./flaticon_education.woff?877ec50832e2fc0503090eb64151d07e") format("woff"), url("./flaticon_education.woff2?877ec50832e2fc0503090eb64151d07e") format("woff2"), url("./flaticon_education.eot?877ec50832e2fc0503090eb64151d07e#iefix") format("embedded-opentype"), url("./flaticon_education.svg?877ec50832e2fc0503090eb64151d07e#flaticon_education") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+  font-family: flaticon_education !important;
+  font-style: normal;
+  font-weight: normal !important;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-quote:before {
+  content: "";
+}
+
+.flaticon-play-button:before {
+  content: "";
+}
+
+.flaticon-quotation:before {
+  content: "";
+}
+
+.flaticon-instagram:before {
+  content: "";
+}
+
+.flaticon-maps-and-flags:before {
+  content: "";
+}
+
+.flaticon-play:before {
+  content: "";
+}
+
+.flaticon-youtube:before {
+  content: "";
+}
+
+.flaticon-linkedin:before {
+  content: "";
+}
+
+.flaticon-instagram-1:before {
+  content: "";
+}
+
+.flaticon-twitter:before {
+  content: "";
+}
+
+.flaticon-facebook-app-symbol:before {
+  content: "";
+}
+
+.flaticon-calendar:before {
+  content: "";
+}
+
+.flaticon-comment-white-oval-bubble:before {
+  content: "";
+}
+
+.flaticon-user:before {
+  content: "";
+}
+
+.flaticon-phone-call:before {
+  content: "";
+}
+
+.flaticon-house:before {
+  content: "";
+}
+
+.flaticon-email:before {
+  content: "";
+}
+
+.flaticon-location:before {
+  content: "";
+}
+
+.flaticon-send:before {
+  content: "";
+}
+
+.flaticon-telephone:before {
+  content: "";
+}
+
+.flaticon-placeholder:before {
+  content: "";
+}
+
+.flaticon-left-quote:before {
+  content: "";
+}
+
+.flaticon-right-arrows:before {
+  content: "";
+}
+
+.flaticon-right-arrow:before {
+  content: "";
+}
+
+.flaticon-24-hours-support:before {
+  content: "";
+}
+
+.flaticon-customer-service:before {
+  content: "";
+}
+
+.flaticon-telephone-1:before {
+  content: "";
+}
+
+.flaticon-email-1:before {
+  content: "";
+}
+
+.flaticon-right-quote-sign:before {
+  content: "";
+}
+
+.flaticon-google-plus:before {
+  content: "";
+}
+
+.flaticon-location-1:before {
+  content: "";
+}
+
+.flaticon-mail:before {
+  content: "";
+}
+
+.flaticon-play-button-1:before {
+  content: "";
+}
+
+.flaticon-checked:before {
+  content: "";
+}
+
+.flaticon-right-arrow-1:before {
+  content: "";
+}
+
+.flaticon-left-arrow:before {
+  content: "";
+}
+
+.flaticon-right-arrow-2:before {
+  content: "";
+}
+
+.flaticon-left-arrow-1:before {
+  content: "";
+}
+
+.flaticon-left-arrow-2:before {
+  content: "";
+}
+
+.flaticon-next:before {
+  content: "";
+}
+
+.flaticon-phone-call-1:before {
+  content: "";
+}
+
+.flaticon-search:before {
+  content: "";
+}
+
+.flaticon-shopping-cart:before {
+  content: "";
+}
+
+.flaticon-email-2:before {
+  content: "";
+}
+
+.flaticon-pinterest:before {
+  content: "";
+}
+
+.flaticon-shopping-bag:before {
+  content: "";
+}
+
+.flaticon-quote-1:before {
+  content: "";
+}
+
+.flaticon-smile:before {
+  content: "";
+}
+
+.flaticon-play-1:before {
+  content: "";
+}
+
+.flaticon-search-1:before {
+  content: "";
+}
+
+.flaticon-next-1:before {
+  content: "";
+}
+
+.flaticon-medal:before {
+  content: "";
+}
+
+.flaticon-paint-palette:before {
+  content: "";
+}
+
+.flaticon-responsible:before {
+  content: "";
+}
+
+.flaticon-medal-1:before {
+  content: "";
+}
+
+.flaticon-e-learning:before {
+  content: "";
+}
+
+.flaticon-support:before {
+  content: "";
+}
+
+.flaticon-agenda:before {
+  content: "";
+}
+
+.flaticon-reading-book:before {
+  content: "";
+}
+
+.flaticon-star:before {
+  content: "";
+}
+
+.flaticon-knowledge:before {
+  content: "";
+}
+
+.flaticon-code:before {
+  content: "";
+}
+
+.flaticon-megaphone:before {
+  content: "";
+}
+
+.flaticon-user-experience:before {
+  content: "";
+}
+
+.flaticon-right-arrow-3:before {
+  content: "";
+}
+
+.flaticon-training:before {
+  content: "";
+}
+
+.flaticon-video-lesson:before {
+  content: "";
+}
+
+.flaticon-training-1:before {
+  content: "";
+}
+
+.flaticon-award:before {
+  content: "";
+}
+
+.flaticon-team:before {
+  content: "";
+}
+/*# sourceMappingURL=flaticon_education.css.map */

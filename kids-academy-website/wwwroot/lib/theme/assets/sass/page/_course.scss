@@ -1,0 +1,369 @@
+/*--------------------------------------------------------------
+9. wpo-course-page
+--------------------------------------------------------------*/
+
+/*------------------------------------
+	course sidebar
+------------------------------------*/
+.wpo-course-sidebar {
+	padding: 20px;
+	box-shadow: 0px 2px 8px 0px rgba(0, 12, 55, 0.10);
+	border-radius: 10px;
+
+	@media(max-width:991px) {
+		margin-top: 50px;
+	}
+
+	.widget {
+		h3 {
+			font-size: 18px;
+			font-size: calc-rem-value(18);
+			font-weight: 700;
+			margin: 0 0 1.5em;
+			position: relative;
+			text-transform: none;
+			text-transform: uppercase;
+			font-family: $base-font;
+		}
+	}
+
+	>.widget+.widget {
+		margin-top: 45px;
+	}
+
+	.product-categories {
+		.cat-item {
+			display: flex;
+			align-items: center;
+			width: 100%;
+			margin-top: 5px;
+			position: relative;
+			padding-bottom: 5px;
+			border-bottom: 1px solid #ebebeb;
+
+			input {
+				margin-right: 10px;
+			}
+
+			label {
+				display: flex;
+				justify-content: space-between;
+				flex-basis: 90%;
+				align-items: center;
+
+				span {
+					display: block;
+					width: 35px;
+					height: 35px;
+					line-height: 35px;
+					background: #f7f7f7;
+					text-align: center;
+					border-radius: 50%;
+				}
+			}
+
+			&.last {
+				border: 0;
+			}
+		}
+	}
+
+	/*** widget_price_filter ***/
+	.widget_price_filter {
+
+		.ui-corner-all,
+		.ui-corner-bottom,
+		.ui-corner-right,
+		.ui-corner-br {
+			border-radius: 30px;
+		}
+
+		.filter-price {
+			position: relative;
+			font-size: 14px;
+
+			input {
+				border: 0;
+				padding: 0;
+				display: inline-block;
+				width: auto;
+				position: absolute;
+
+				&:focus {
+					border: 0;
+					outline: none;
+				}
+			}
+
+			button {
+				font-family: $heading-font;
+				background: transparent;
+				color: $theme-primary-color;
+				font-size: 18px;
+				font-size: calc-rem-value(18);
+				font-weight: 500;
+				text-transform: uppercase;
+				letter-spacing: 0;
+				display: inline-block;
+				border: 0;
+				outline: none;
+				position: absolute;
+				right: 0;
+				z-index: 99;
+				text-decoration: underline;
+
+				&:hover,
+				&:focus,
+				&:active {
+					text-decoration: underline;
+				}
+			}
+
+			#amount {
+				color: $black;
+			}
+		}
+
+		#slider-range {
+			height: 3px;
+			background: $section-bg-color;
+			border: 0;
+			border-radius: 50px;
+			margin-bottom: 25px;
+			margin-left: 8px;
+		}
+
+		.ui-state-default,
+		.ui-widget-content .ui-state-default,
+		.ui-widget-header .ui-state-default {
+			width: 10px;
+			height: 10px;
+			border: none;
+			background: $theme-primary-color-s2;
+			top: -4px;
+
+			&:focus {
+				outline: none;
+			}
+		}
+
+		.ui-widget-header {
+			background: $theme-primary-color-s2;
+		}
+	}
+}
+
+.wpo-course-page {
+
+	/*** search-widget ***/
+	.search-widget {
+		form div {
+			position: relative;
+		}
+
+		input {
+			font-size: 14px;
+			font-size: calc-rem-value(14);
+			width: 100%;
+			height: 60px;
+			border: 1px solid $border-color-s2;
+			padding: 10px;
+
+			&:focus {
+				outline: none;
+				border-color: $theme-primary-color;
+			}
+		}
+
+		form button {
+			background-color: $theme-primary-color;
+			color: $white;
+			padding: 0;
+			border: 0;
+			outline: 0;
+			position: absolute;
+			right: 0px;
+			top: 0px;
+			border-radius: 0;
+			width: 60px;
+			height: 60px;
+
+			i {
+				font-size: 18px;
+				font-size: calc-rem-value(18);
+			}
+		}
+	}
+
+	.wpo-product-section {
+		padding: 0;
+		padding-left: 30px;
+
+		@media(max-width:991px) {
+			padding-left: 0;
+		}
+
+		.wpo-popular-item {
+			.wpo-popular-img {
+				position: relative;
+
+				.cart-btn {
+					position: absolute;
+					left: 50%;
+					top: 52%;
+					transform: translate(-50%, -50%);
+					padding: 10px 25px;
+					text-transform: capitalize;
+					border-radius: 6px;
+					background: $theme-primary-color-s5;
+					color: $white;
+					opacity: 0;
+					visibility: hidden;
+					transition: all .3s;
+					border: 5px solid $white;
+				}
+			}
+
+			&:hover {
+				.wpo-popular-img {
+					.cart-btn {
+						opacity: 1;
+						visibility: visible;
+					}
+				}
+			}
+		}
+	}
+
+	.sorting-section {
+		padding-bottom: 20px;
+
+		ul {
+			display: flex;
+			justify-content: space-between;
+			list-style: none;
+			align-items: center;
+			flex-wrap: wrap;
+
+			li {
+				margin: 10px 0;
+			}
+		}
+
+		.nice-select {
+			ul {
+				display: block;
+			}
+		}
+
+		.filter {
+			button {
+				background: $theme-primary-color;
+				padding: 10px 25px;
+				border: 0;
+				color: $white;
+				display: flex;
+				align-items: center;
+				border-radius: 5px;
+
+				i {
+					margin-left: 10px;
+				}
+			}
+		}
+	}
+
+	&.s2 {
+		.wpo-product-section {
+			padding-left: 0;
+			justify-content: space-between;
+		}
+
+		.wpo-course-sidebar {
+			display: flex;
+			margin-bottom: 30px;
+			margin-top: 0;
+
+			@media(max-width:991px) {
+				flex-wrap: wrap;
+			}
+
+			.widget {
+				flex-basis: 25%;
+				padding: 0 20px;
+				margin-top: 0;
+
+
+				@media(max-width:991px) {
+					flex-basis: 50%;
+					margin-bottom: 20px;
+				}
+
+				@media(max-width:500px) {
+					flex-basis: 100%;
+					padding: 0 10px;
+				}
+
+
+				ul {
+					li {
+						&:last-child {
+							border: 0;
+						}
+
+						@media(max-width:1199px) {
+							font-size: 15px;
+						}
+					}
+				}
+
+				h3 {
+					@media(max-width:1199px) {
+						font-size: 16px;
+					}
+				}
+			}
+		}
+
+		.search-widget {
+			input {
+				height: 45px;
+			}
+
+			button {
+				height: 45px;
+				line-height: 50px;
+			}
+		}
+
+		#filterOpen {
+			display: none;
+		}
+
+		.sorting-section {
+			padding: 10px 20px;
+			box-shadow: 0px 2px 8px 0px rgba(0, 12, 55, 0.10);
+			margin-bottom: 30px;
+			border-radius: 10px;
+
+			ul {
+				li {
+					&:nth-child(2) {
+						flex-basis: 30%;
+
+						@media(max-width:500px) {
+							flex-basis: 58%;
+						}
+					}
+				}
+			}
+		}
+	}
+	&.s3 {
+		.wpo-product-section {
+			padding-left: 0;
+			padding-right: 20px;
+			justify-content: space-between;
+		}
+	}
+}

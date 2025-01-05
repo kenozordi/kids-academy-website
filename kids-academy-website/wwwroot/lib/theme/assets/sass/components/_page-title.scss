@@ -1,0 +1,163 @@
+// page-title
+.wpo-page-title {
+	background: $section-bg-color;
+	min-height: 350px;
+	position: relative;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	z-index: 1;
+	overflow: hidden;
+
+	@media(max-width: 767px) {
+		min-height: 250px;
+	}
+
+	.shape-1 {
+		position: absolute;
+		left: 15%;
+		top: 20%;
+		z-index: -1;
+		animation: bounce 5s linear infinite;
+
+		@media(max-width:991px) {
+			top: 8%;
+		}
+		@media(max-width:575px) {
+			display: none;
+		}
+
+		img {
+			@media(max-width:991px) {
+				max-width: 50px;
+			}
+		}
+	}
+
+	.shape-2 {
+		position: absolute;
+		left: 50px;
+		bottom: 50px;
+		z-index: -1;
+		animation: zoom-in-zoom-out 5s ease infinite;
+
+		@media(max-width:575px) {
+			display: none;
+		}
+
+		img {
+			@media(max-width:991px) {
+				max-width: 50px;
+			}
+		}
+	}
+
+	.shape-3 {
+		position: absolute;
+		right: -30px;
+		top: 40px;
+		z-index: -1;
+		animation: bounceX 5s linear infinite;
+
+		@media(max-width:575px) {
+			display: none;
+		}
+
+		img {
+			@media(max-width:991px) {
+				max-width: 50px;
+			}
+		}
+	}
+
+	.shape-4 {
+		position: absolute;
+		right: 50px;
+		bottom: 15%;
+		z-index: -1;
+		animation: bounceX 7s linear infinite;
+
+		@media(max-width:575px) {
+			display: none;
+		}
+
+		img {
+			@media(max-width:991px) {
+				max-width: 90px;
+			}
+		}
+	}
+
+	.wpo-breadcumb-wrap {
+		text-align: center;
+
+		h2 {
+			font-size: 60px;
+			color: $dark-gray;
+			line-height: 60px;
+			margin-bottom: 20px;
+			font-weight: 600;
+
+			@media(max-width: 767px) {
+				font-size: 30px;
+				line-height: 35px;
+				margin-bottom: 10px;
+			}
+		}
+
+		ol {
+			padding-left: 0;
+			margin-bottom: 0;
+
+			li {
+				display: inline-block;
+				padding: 0px 5px;
+				padding-right: 20px;
+				color: $text-color;
+				position: relative;
+				font-size: 20px;
+				font-family: $base-font;
+
+				&:last-child {
+					padding-right: 0;
+				}
+
+				@media(max-width:767px) {
+					font-size: 18px;
+				}
+
+				&:after {
+					content: "";
+					position: absolute;
+					right: 0;
+					top: 50%;
+					transform: translateY(-50%);
+					width: 8px;
+					height: 8px;
+					background: $text-color;
+					border-radius: 50%;
+				}
+
+				&:last-child {
+					span {
+						color: $text-color;
+					}
+
+					&:after {
+						display: none;
+					}
+				}
+
+				a {
+					color: $text-color;
+					font-size: 20px;
+					transition: all .3s;
+
+					&:hover {
+						color: $theme-primary-color-s2;
+					}
+				}
+			}
+		}
+	}
+}

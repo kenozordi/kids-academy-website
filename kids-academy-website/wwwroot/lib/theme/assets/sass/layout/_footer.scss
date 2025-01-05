@@ -1,0 +1,282 @@
+/*--------------------------------------------------------------
+4. wpo-footer
+--------------------------------------------------------------*/
+.wpo-site-footer {
+    background: $dark-gray;
+    background-size: cover;
+    position: relative;
+    font-size: 16px;
+    overflow: hidden;
+    z-index: 1;
+
+    &:before {
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        content: "";
+        background: url(../images/noise.png);
+    }
+
+
+
+    ul {
+        list-style: none;
+    }
+
+    p {
+        color: $white;
+    }
+
+    li {
+        color: $white;
+    }
+
+    .container {
+        position: relative;
+    }
+
+    .wpo-upper-footer {
+        padding: 100px 0;
+        position: relative;
+        overflow: hidden;
+
+        .navbar-brand {
+            padding-top: 0;
+            color: $white;
+            justify-content: flex-start;
+            position: relative;
+            top: -10px;
+        }
+    }
+
+    @media (max-width: 991px) {
+
+        .wpo-upper-footer {
+            padding: 80px 0 0;
+        }
+    }
+
+    @media (max-width: 767px) {
+
+        .wpo-upper-footer {
+            padding: 60px 0 0;
+        }
+    }
+
+    @media (max-width: 991px) {
+
+        .wpo-upper-footer .col {
+            min-height: 235px;
+            margin-bottom: 70px;
+        }
+    }
+
+    @media (max-width: 767px) {
+
+        .wpo-upper-footer .col {
+            min-height: auto;
+            margin-bottom: 60px;
+        }
+    }
+
+    .widget-title {
+        margin-bottom: 20px;
+    }
+
+    .widget-title {
+        h3 {
+            font-size: 30px;
+            font-style: normal;
+            font-weight: 700;
+            color: $white;
+            margin: 0;
+            position: relative;
+            font-family: $base-font;
+        }
+    }
+
+    .about-widget {
+        max-width: 245px;
+
+        p {
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 150%;
+            margin-bottom: 25px;
+        }
+
+        .social ul {
+            display: flex;
+            margin-top: 20px;
+
+            li {
+                &+li {
+                    margin-left: 10px;
+                }
+
+                a {
+                    color: $white;
+                    width: 40px;
+                    height: 40px;
+                    line-height: 40px;
+                    background: rgba(255, 255, 255, 0.15);
+                    display: block;
+                    text-align: center;
+                    font-size: 16px;
+                    border-radius: 50%;
+
+                    &:hover {
+                        background: $theme-primary-color-s2;
+                    }
+
+                    .fi {
+                        &:before {
+                            color: $white;
+                            font-size: 14px;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    .wpo-service-link-widget {
+        padding-left: 70px;
+    }
+
+    .link-widget {
+        overflow: hidden;
+        padding-left: 15px;
+
+        @media(max-width:1200px) {
+            padding: 0;
+        }
+
+        &.s2 {
+            padding-left: 15px;
+
+            @media(max-width:1200px) {
+                padding: 0;
+            }
+        }
+
+
+        ul {
+            li {
+                position: relative;
+                z-index: 1;
+                padding: 8px 0;
+                padding-left: 20px;
+
+                &:before {
+                    position: absolute;
+                    left: 0px;
+                    top: 16px;
+                    width: 6px;
+                    height: 6px;
+                    z-index: -1;
+                    background: #D9D9D9;
+                    content: "";
+                    border-radius: 50%;
+                }
+
+                a {
+                    color: $white;
+                    font-size: 16px;
+
+                    &:hover {
+                        color: $theme-primary-color-s2;
+                    }
+                }
+            }
+        }
+    }
+
+    /*** contact-widget ***/
+    .contact-ft {
+
+        ul {
+            li {
+                padding-bottom: 15px;
+                position: relative;
+                padding-left: 35px;
+                font-size: 15px;
+                font-style: normal;
+                font-weight: 400;
+                line-height: 32px;
+                text-transform: capitalize;
+                color: $white;
+
+                i {
+                    position: absolute;
+                    left: 0;
+                    top: 0;
+                    color: $white;
+                }
+
+                .fi:before {
+                    font-size: 20px;
+                    margin-right: 15px;
+                }
+            }
+        }
+    }
+
+
+    .wpo-lower-footer {
+        text-align: left;
+        padding: 25px 0;
+        border-top: 1px solid rgba(255, 255, 255, 0.15);
+
+        @media(max-width:991px) {
+            text-align: center;
+        }
+
+        ul {
+            li {
+                color: rgba(188, 192, 197, 0.97);
+
+                a {
+                    color: $white
+                }
+            }
+        }
+
+        .link {
+            ul {
+                display: flex;
+                justify-content: flex-end;
+
+                @media(max-width:991px) {
+                    justify-content: center;
+                    margin-top: 10px;
+                    flex-wrap: wrap;
+                }
+
+                li {
+                    a {
+                        color: rgba(188, 192, 197, 0.97);;
+
+                        &:hover {
+                            color: $theme-primary-color-s2;
+                        }
+                    }
+
+                    &+li {
+                        padding-left: 20px;
+                        position: relative;
+
+                        @media(max-width:375px) {
+                            padding-left: 5px;
+                            margin-left: 5px;
+                        }
+
+                    }
+                }
+            }
+
+        }
+    }
+}

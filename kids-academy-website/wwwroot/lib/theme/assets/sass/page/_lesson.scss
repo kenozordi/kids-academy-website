@@ -1,0 +1,224 @@
+/*--------------------------------------------------------------
+11. wpo-lesson-section
+--------------------------------------------------------------*/
+
+.wpo-lesson-section {
+    .container-fluid {
+        padding: 0;
+    }
+
+    .col{
+        padding: 0;
+    }
+
+    .wpo-lesson-sidebar {
+        height: 100%;
+        border-right: 1px solid #e1e1e1;
+
+        @media(max-width:991px){
+            height: auto;
+        }
+
+        .accordion-item {
+            border: 0;
+            border: 1px solid #e1e1e1;
+            border-top: 0;
+            border-right: 0;
+
+
+            .accordion-body {
+                padding-left: 0;
+                padding-right: 0;
+            }
+
+            button {padding: 20px;
+                border: 0;
+                border-radius: 0;
+                font-size: 18px;
+                font-weight: 700;
+                color: $white;
+                text-align: left;
+                font-family: $base-font;
+                background: $dark-gray;
+                display: flex;
+                align-items: center;
+
+                @media(max-width:991px){
+                    font-size: 15px;
+                }
+
+                span {
+                    font-size: 14px;
+                    display: inline-block;
+                    margin-left: 20px;
+                    position: relative;
+                    top: 2px;
+                }
+
+                &::after {
+                    background: none;
+                    font-family: "themify";
+                    content: "\e622";
+                    font-size: 15px;
+                    transform: rotate(0deg);
+                    font-weight: 700;
+                }
+
+
+                &.collapsed {
+                    color: #373b3e;
+                    background: $white;
+
+                    &::after {
+                        content: "\e61a";
+                    }
+                }
+
+                &:focus {
+                    box-shadow: none;
+                    outline: none;
+                }
+
+
+            }
+
+            .accordion-body {
+                padding: 20px;
+
+                .item {
+                    list-style: none;
+
+                    li {
+                        color: $dark-gray;
+                        margin-bottom: 20px;
+
+
+                        &:last-child {
+                            margin-bottom: 0;
+                        }
+
+                        a {
+                            display: flex;
+                            justify-content: space-between;
+                            color: $dark-gray;
+                            margin-left: 5px;
+                            position: relative;
+                            align-items: center;
+
+                            i.flaticon-play-button {
+                                width: 22px;
+                                height: 22px;
+                                line-height: 20px;
+                                border: 1px solid #F9406C;
+                                display: inline-block;
+                                text-align: center;
+                                border-radius: 50%;
+                                color: #F9406C;
+                                margin-right: 10px;
+                                font-size: 12px;
+                                margin-left: 10px;
+                            }
+
+                            span {
+                                display: flex;
+                                align-items: center;
+
+                                i {
+                                    margin-left: 10px;
+                                }
+                            }
+
+                            .fa-check-circle {
+                                color: $theme-primary-color;
+                            }
+
+                            .fa-circle-thin {
+                                color: #cfc9c9;
+                            }
+                        }
+                    }
+                }
+            }
+
+            .accordion-collapse {
+                border: 0;
+            }
+        }
+
+    }
+
+    .video-area {
+        height: 100%;
+
+        @media(max-width:991px){
+            height: auto;
+        }
+
+        .video-heading {
+            display: flex;
+            justify-content: space-between;
+            padding: 8px 20px;
+            background: $dark-gray;
+            align-items: center;
+            flex-wrap: wrap;
+
+            h2{
+                font-size: 20px;
+                font-weight: 700;
+                color: $white;
+            }
+
+            .theme-btn {
+                padding: 10px 25px;
+            }
+        }
+
+        video {
+            width: 100%;
+
+            @media(max-width:991px){
+                height: auto;
+                object-fit: contain;
+            }
+        }
+
+        .video-details {
+            max-width: 800px;
+            padding: 30px;
+
+            h2 {
+                font-size: 30px;
+                font-weight: 600;
+                margin-bottom: 10px;
+            }
+        }
+
+        .video-details-pagination {
+            padding: 20px;
+            background: $section-bg-color;
+
+            ul {
+                display: flex;
+                justify-content: center;
+                list-style: none;
+
+                li {
+                    margin: 10px;
+
+                    a{
+                        display: block;
+                        padding:10px 30px;
+                        background: #ededed;
+                        color: $text-color;
+                        border-radius: 5px;
+
+                        &:hover {
+                            background: $theme-primary-color;
+                            color: $white;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

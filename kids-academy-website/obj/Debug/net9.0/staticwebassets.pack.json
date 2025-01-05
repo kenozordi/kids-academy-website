@@ -1,0 +1,1565 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\kids-academy-website.bundle.scp.css",
+      "PackagePath": "staticwebassets\\kids-academy-website.qvdctylxhm.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\css\\animate.css",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\css\\auth-pages.css",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\css\\auth-pages.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\css\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\css\\jquery.fancybox.css",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\css\\jquery.fancybox.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\css\\odometer-theme-default.css",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\css\\odometer-theme-default.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\css\\owl.theme.css",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\css\\owl.theme.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\css\\owl.transitions.css",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\css\\owl.transitions.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\css\\slick-theme.css",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\css\\slick-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\css\\slick.css",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\css\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\css\\swiper.min.css",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\css\\swiper.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\css\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\FuturaPT-Bold.woff",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\FuturaPT-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\FuturaPT-Bold.woff2",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\FuturaPT-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\FuturaPT-BoldObl.woff",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\FuturaPT-BoldObl.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\FuturaPT-BoldObl.woff2",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\FuturaPT-BoldObl.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\FuturaPT-Demi.woff",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\FuturaPT-Demi.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\FuturaPT-Demi.woff2",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\FuturaPT-Demi.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\FuturaPT-DemiObl.woff",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\FuturaPT-DemiObl.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\FuturaPT-DemiObl.woff2",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\FuturaPT-DemiObl.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\FuturaPT-ExtraBold.woff",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\FuturaPT-ExtraBold.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\FuturaPT-ExtraBold.woff2",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\FuturaPT-ExtraBold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\FuturaPT-ExtraBoldObl.woff",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\FuturaPT-ExtraBoldObl.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\FuturaPT-ExtraBoldObl.woff2",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\FuturaPT-ExtraBoldObl.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\FuturaPT-Heavy.woff",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\FuturaPT-Heavy.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\FuturaPT-Heavy.woff2",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\FuturaPT-Heavy.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\FuturaPT-HeavyObl.woff",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\FuturaPT-HeavyObl.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\FuturaPT-HeavyObl.woff2",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\FuturaPT-HeavyObl.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\FuturaPT-Light.woff",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\FuturaPT-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\FuturaPT-Light.woff2",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\FuturaPT-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\FuturaPT-LightObl.woff",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\FuturaPT-LightObl.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\FuturaPT-LightObl.woff2",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\FuturaPT-LightObl.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\FuturaPT-Medium.woff",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\FuturaPT-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\FuturaPT-Medium.woff2",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\FuturaPT-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\FuturaPT-MediumObl.woff",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\FuturaPT-MediumObl.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\FuturaPT-MediumObl.woff2",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\FuturaPT-MediumObl.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\Muli.ttf",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\Muli.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\flaticon_education.css",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\flaticon_education.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\flaticon_education.css.map",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\flaticon_education.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\flaticon_education.eot",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\flaticon_education.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\flaticon_education.html",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\flaticon_education.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\flaticon_education.scss",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\flaticon_education.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\flaticon_education.svg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\flaticon_education.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\flaticon_education.ttf",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\flaticon_education.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\flaticon_education.woff",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\flaticon_education.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\flaticon_education.woff2",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\flaticon_education.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\icomoon.dev.svg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\icomoon.dev.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\icomoon.eot",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\icomoon.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\icomoon.svg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\icomoon.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\icomoon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\icomoon.woff",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\icomoon.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\license.txt",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\license.txt"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\text-font\\Muli-Bold.woff",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\text-font\\Muli-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\text-font\\Muli-ExtraBold.woff",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\text-font\\Muli-ExtraBold.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\text-font\\Muli-Light.woff",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\text-font\\Muli-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\text-font\\Muli-Regular.woff",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\text-font\\Muli-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\text-font\\Muli-SemiBold.woff",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\text-font\\Muli-SemiBold.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\themify.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\themify.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\fonts\\themify.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\.png.png",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\.png.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\about\\frame.png",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\about\\frame.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\about\\img-1.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\about\\img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\about\\img-2.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\about\\img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\about\\img-3.png",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\about\\img-3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\about\\img-4.png",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\about\\img-4.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\about\\img-5.png",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\about\\img-5.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\about\\img-6.png",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\about\\img-6.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\about\\shape.png",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\about\\shape.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\at-single.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\at-single.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\blog-details\\1.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\blog-details\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\blog-details\\2.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\blog-details\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\blog-details\\author.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\blog-details\\author.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\blog-details\\comments-author\\img-1.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\blog-details\\comments-author\\img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\blog-details\\comments-author\\img-2.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\blog-details\\comments-author\\img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\blog-details\\comments-author\\img-3.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\blog-details\\comments-author\\img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\blog\\about-widget.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\blog\\about-widget.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\blog\\blog-avater\\img-1.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\blog\\blog-avater\\img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\blog\\blog-avater\\img-2.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\blog\\blog-avater\\img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\blog\\blog-avater\\img-3.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\blog\\blog-avater\\img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\blog\\img-1.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\blog\\img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\blog\\img-2.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\blog\\img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\blog\\img-3.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\blog\\img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\blog\\img-4.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\blog\\img-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\blog\\img-5.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\blog\\img-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\blog\\img-6.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\blog\\img-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\cart\\img-1.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\cart\\img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\cart\\img-2.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\cart\\img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\cart\\img-3.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\cart\\img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\cart\\img-4.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\cart\\img-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\cart\\img-5.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\cart\\img-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\cart\\img-6.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\cart\\img-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\certificates\\1.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\certificates\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\certificates\\2.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\certificates\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\certificates\\3.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\certificates\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\certificates\\4.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\certificates\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\checkout\\img-1.png",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\checkout\\img-1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\checkout\\img-2.png",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\checkout\\img-2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\checkout\\img-3.png",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\checkout\\img-3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\checkout\\img-4.png",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\checkout\\img-4.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\checkout\\img-5.png",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\checkout\\img-5.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\choose.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\choose.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\choose2.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\choose2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\course-single.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\course-single.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\courses\\img-1.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\courses\\img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\courses\\img-2.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\courses\\img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\courses\\img-3.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\courses\\img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\courses\\img-4.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\courses\\img-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\error-404.png",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\error-404.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\event\\img-1.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\event\\img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\event\\img-2.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\event\\img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\event\\img-3.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\event\\img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\fancybox\\blank.gif",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\fancybox\\blank.gif"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\fancybox\\fancybox_loading.gif",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\fancybox\\fancybox_loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\fancybox\\fancybox_loading@2x.gif",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\fancybox\\fancybox_loading@2x.gif"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\fancybox\\fancybox_overlay.png",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\fancybox\\fancybox_overlay.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\fancybox\\fancybox_sprite.png",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\fancybox\\fancybox_sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\fancybox\\fancybox_sprite@2x.png",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\fancybox\\fancybox_sprite@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\funfact-shape-1.png",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\funfact-shape-1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\funfact-shape-2.png",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\funfact-shape-2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\instragram\\1.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\instragram\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\instragram\\2.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\instragram\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\instragram\\3.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\instragram\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\instragram\\4.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\instragram\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\instragram\\5.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\instragram\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\instragram\\6.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\instragram\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\login.svg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\login.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\logo-s2.svg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\logo-s2.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\logo-s3.svg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\logo-s3.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\logo-s4.svg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\logo-s4.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\my-icon.svg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\my-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\noise.png",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\noise.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\page-title.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\page-title.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\particale.png",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\particale.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\partners\\img-1.png",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\partners\\img-1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\partners\\img-2.png",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\partners\\img-2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\partners\\img-3.png",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\partners\\img-3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\partners\\img-4.png",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\partners\\img-4.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\partners\\img-5.png",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\partners\\img-5.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\partners\\img-6.png",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\partners\\img-6.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\popular\\avater\\img-1.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\popular\\avater\\img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\popular\\avater\\img-2.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\popular\\avater\\img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\popular\\avater\\img-3.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\popular\\avater\\img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\popular\\img-1.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\popular\\img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\popular\\img-2.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\popular\\img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\popular\\img-3.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\popular\\img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\popular\\img-4.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\popular\\img-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\popular\\img-5.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\popular\\img-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\popular\\img-6.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\popular\\img-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\popular\\shape-1.png",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\popular\\shape-1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\popular\\shape-2.png",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\popular\\shape-2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\portfolio\\1.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\portfolio\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\portfolio\\2.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\portfolio\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\portfolio\\3.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\portfolio\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\portfolio\\4.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\portfolio\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\portfolio\\5.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\portfolio\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\portfolio\\6.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\portfolio\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\portfolio\\7.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\portfolio\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\portfolio\\8.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\portfolio\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\preloader.png",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\preloader.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\recent-course\\img-1.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\recent-course\\img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\recent-course\\img-2.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\recent-course\\img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\recent-course\\img-3.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\recent-course\\img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\recent-posts\\img-1.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\recent-posts\\img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\recent-posts\\img-2.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\recent-posts\\img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\recent-posts\\img-3.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\recent-posts\\img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\select-icon.png",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\select-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\select-icon2.png",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\select-icon2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\shape\\1.svg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\shape\\1.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\shape\\2.svg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\shape\\2.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\shape\\3.svg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\shape\\3.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\shape\\4.svg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\shape\\4.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\shape\\vector-1.svg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\shape\\vector-1.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\shape\\vector-10.svg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\shape\\vector-10.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\shape\\vector-11.svg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\shape\\vector-11.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\shape\\vector-12.svg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\shape\\vector-12.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\shape\\vector-2.svg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\shape\\vector-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\shape\\vector-3.svg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\shape\\vector-3.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\shape\\vector-4.svg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\shape\\vector-4.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\shape\\vector-5.svg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\shape\\vector-5.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\shape\\vector-6.svg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\shape\\vector-6.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\shape\\vector-7.svg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\shape\\vector-7.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\shape\\vector-8.svg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\shape\\vector-8.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\shape\\vector-9.svg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\shape\\vector-9.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\shop\\1.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\shop\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\shop\\2.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\shop\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\shop\\3.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\shop\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\shop\\4.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\shop\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\shop\\5.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\shop\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\shop\\6.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\shop\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\shop\\mini-cart\\img-1.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\shop\\mini-cart\\img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\shop\\mini-cart\\img-2.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\shop\\mini-cart\\img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\shop\\shop-single\\1.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\shop\\shop-single\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\shop\\shop-single\\2.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\shop\\shop-single\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\shop\\shop-single\\3.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\shop\\shop-single\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\shop\\shop-single\\4.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\shop\\shop-single\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\shop\\shop-single\\5.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\shop\\shop-single\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\shop\\shop-single\\6.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\shop\\shop-single\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\shop\\shop-single\\review\\img-1.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\shop\\shop-single\\review\\img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\shop\\shop-single\\review\\img-2.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\shop\\shop-single\\review\\img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\shop\\shop-single\\thumb\\img-1.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\shop\\shop-single\\thumb\\img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\shop\\shop-single\\thumb\\img-2.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\shop\\shop-single\\thumb\\img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\shop\\shop-single\\thumb\\img-3.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\shop\\shop-single\\thumb\\img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\shop\\shop-single\\thumb\\img-4.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\shop\\shop-single\\thumb\\img-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\shop\\shop-single\\thumb\\img-5.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\shop\\shop-single\\thumb\\img-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\shop\\shop-single\\thumb\\img-6.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\shop\\shop-single\\thumb\\img-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\signeture.png",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\signeture.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\signeture2.png",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\signeture2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\slider\\1.png",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\slider\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\slider\\2.png",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\slider\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\slider\\3.png",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\slider\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\slider\\4.png",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\slider\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\slider\\5.png",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\slider\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\slider\\bg.png",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\slider\\bg.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\slider\\client1.png",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\slider\\client1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\slider\\client2.png",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\slider\\client2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\slider\\client3.png",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\slider\\client3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\slider\\client4.png",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\slider\\client4.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\slider\\client5.png",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\slider\\client5.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\slider\\crown.svg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\slider\\crown.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\slider\\medal.svg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\slider\\medal.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\slider\\shape-1.svg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\slider\\shape-1.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\slider\\shape-2.svg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\slider\\shape-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\slider\\shape-3.svg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\slider\\shape-3.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\slider\\shape-4.svg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\slider\\shape-4.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\slider\\stick-man.svg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\slider\\stick-man.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\teacher.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\teacher.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\team\\1.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\team\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\team\\2.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\team\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\team\\3.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\team\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\team\\4.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\team\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\team\\shape-1.svg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\team\\shape-1.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\team\\shape-2.svg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\team\\shape-2.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\team\\shape-3.svg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\team\\shape-3.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\team\\shape-4.svg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\team\\shape-4.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\terms\\1.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\terms\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\terms\\2.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\terms\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\terms\\3.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\terms\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\terms\\4.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\terms\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\terms\\terms.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\terms\\terms.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\terms\\terms2.jpg",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\terms\\terms2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\testimonial\\shape-1.png",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\testimonial\\shape-1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\testimonial\\shape-2.png",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\testimonial\\shape-2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\testimonial\\shape-3.png",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\testimonial\\shape-3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\testimonial\\shape-4.png",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\testimonial\\shape-4.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\testimonial\\thumb1.png",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\testimonial\\thumb1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\testimonial\\thumb2.png",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\testimonial\\thumb2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\testimonial\\thumb3.png",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\testimonial\\thumb3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\images\\video\\html.mp4",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\images\\video\\html.mp4"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\js\\jquery-plugin-collection.js",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\js\\jquery-plugin-collection.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\js\\modernizr.custom.js",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\js\\modernizr.custom.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\js\\script.js",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\sass\\base\\_base.scss",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\sass\\base\\_base.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\sass\\components\\_blog-sidebar.scss",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\sass\\components\\_blog-sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\sass\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\sass\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\sass\\components\\_form.scss",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\sass\\components\\_form.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\sass\\components\\_page-title.scss",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\sass\\components\\_page-title.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\sass\\components\\_pagination.scss",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\sass\\components\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\sass\\components\\_preloader.scss",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\sass\\components\\_preloader.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\sass\\components\\_section-title.scss",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\sass\\components\\_section-title.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\sass\\components\\_social-links.scss",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\sass\\components\\_social-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\sass\\components\\_sticky-header.scss",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\sass\\components\\_sticky-header.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\sass\\helpers\\$path",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\sass\\helpers"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\sass\\helpers\\_functions.scss",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\sass\\helpers\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\sass\\helpers\\_mixins.scss",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\sass\\helpers\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\sass\\helpers\\_variables.scss",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\sass\\helpers\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\sass\\layout\\_footer.scss",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\sass\\layout\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\sass\\layout\\_header.scss",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\sass\\layout\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\sass\\layout\\_hero-slider.scss",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\sass\\layout\\_hero-slider.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\sass\\page\\_blog-single.scss",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\sass\\page\\_blog-single.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\sass\\page\\_blog.scss",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\sass\\page\\_blog.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\sass\\page\\_cart.scss",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\sass\\page\\_cart.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\sass\\page\\_checkout.scss",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\sass\\page\\_checkout.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\sass\\page\\_contact.scss",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\sass\\page\\_contact.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\sass\\page\\_course-single.scss",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\sass\\page\\_course-single.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\sass\\page\\_course.scss",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\sass\\page\\_course.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\sass\\page\\_error-404.scss",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\sass\\page\\_error-404.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\sass\\page\\_faq.scss",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\sass\\page\\_faq.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\sass\\page\\_gallery.scss",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\sass\\page\\_gallery.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\sass\\page\\_home-default.scss",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\sass\\page\\_home-default.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\sass\\page\\_home-style-2.scss",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\sass\\page\\_home-style-2.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\sass\\page\\_home-style-3.scss",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\sass\\page\\_home-style-3.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\sass\\page\\_home-style-4.scss",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\sass\\page\\_home-style-4.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\sass\\page\\_home-style-5.scss",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\sass\\page\\_home-style-5.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\sass\\page\\_lesson.scss",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\sass\\page\\_lesson.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\sass\\page\\_service-single.scss",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\sass\\page\\_service-single.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\sass\\page\\_shop-single.scss",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\sass\\page\\_shop-single.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\sass\\page\\_shop.scss",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\sass\\page\\_shop.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\sass\\page\\_teacher.scss",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\sass\\page\\_teacher.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\sass\\page\\_team-single.scss",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\sass\\page\\_team-single.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\sass\\page\\_terms.scss",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\sass\\page\\_terms.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\sass\\style.css",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\sass\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\sass\\style.css.map",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\sass\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\source\\repos\\kids-academy-website\\kids-academy-website\\wwwroot\\lib\\theme\\assets\\sass\\style.scss",
+      "PackagePath": "staticwebassets\\lib\\theme\\assets\\sass\\style.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.kids-academy-website.props",
+      "PackagePath": "build\\kids-academy-website.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.kids-academy-website.props",
+      "PackagePath": "buildMultiTargeting\\kids-academy-website.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.kids-academy-website.props",
+      "PackagePath": "buildTransitive\\kids-academy-website.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.kids-academy-website.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.kids-academy-website.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
