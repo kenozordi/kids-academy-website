@@ -4,7 +4,7 @@ on:
   pull_request:
     types: [closed]   # trigger when PR is merged
     branches:
-      - dev          # only deploy main dev
+      - dev          # only deploy dev branch
 
 jobs:
   deploy:
@@ -35,16 +35,36 @@ jobs:
           php artisan route:cache
           php artisan view:cache
 
-      - name: Deploy to Hostinger via FTP
+      - name: Deploy server-side to Hostinger via FTP
         uses: SamKirkland/FTP-Deploy-Action@v4.3.4
         with:
           server: ${{ secrets.FTP_SERVER }}
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
           local-dir: ./
+          server-dir: /kids-academy-website/
+          exclude: | 
+            **/.git*
+            **/.github/**
+            **/node_modules/**
+            **/tests/**
+            **/vendor/**
+            **/public/**
+          dangerous-clean-slate: false   # keep previous uploads
+
+      - name: Deploy client-side to Hostinger via FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          local-dir: ./public
           server-dir: /public_html/
           exclude: |
             **/.git*
             **/.github/**
             **/node_modules/**
             **/tests/**
+            **/vendor/**
+            **/public/theme/assets/images/**
+          dangerous-clean-slate: false   # keep previous uploads
