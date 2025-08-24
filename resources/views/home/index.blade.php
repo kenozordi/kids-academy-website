@@ -10,7 +10,7 @@
                 <div class="hero-content">
                     <div data-swiper-parallax="300" class="slide-title">
                         <h2>
-                            Grow Your Career With Best Quality
+                            ...At DKA, Every Child is a Success"
                             <span>
                                 <small id='changing'></small>
                                 <i class="s1"></i>
@@ -21,9 +21,10 @@
                         </h2>
                     </div>
                     <div data-swiper-parallax="400" class="slide-text">
-                        <p>
-                            We are providing you the best tutor to enhance your knowledge and skill. Lets get
-                            started and get a relaxing learning.
+                        <p>Welcome to where Curiosity Meets Confidence; 
+                        A place where Learning, Growth, and Community Thrive.
+                        Welcome to Distinguished Kids Academy
+
                         </p>
                     </div>
                     <div class="clearfix"></div>
@@ -51,7 +52,7 @@
                                 <i class="fi flaticon-training-1"></i>
                             </div>
                             <div class="feature-text">
-                                <h2><a href="course.html">1250+ Courses</a></h2>
+                                <h2><a href="course.html">Learn About DKA</a></h2>
                             </div>
                         </div>
                     </div>
@@ -63,7 +64,7 @@
                                 <i class="fi flaticon-team"></i>
                             </div>
                             <div class="feature-text">
-                                <h2><a href="course.html">25k Students</a></h2>
+                                <h2><a href="course.html">Meet Our teachers</a></h2>
                             </div>
                         </div>
                     </div>
@@ -75,7 +76,7 @@
                                 <i class="fi flaticon-video-lesson"></i>
                             </div>
                             <div class="feature-text">
-                                <h2><a href="course.html">500+ Free Class</a></h2>
+                                <h2><a href="course.html">Tour the campus</a></h2>
                             </div>
                         </div>
                     </div>
@@ -87,7 +88,7 @@
                                 <i class="fi flaticon-training"></i>
                             </div>
                             <div class="feature-text">
-                                <h2><a href="course.html">250+ Mentors</a></h2>
+                                <h2><a href="course.html">Learn with us</a></h2>
                             </div>
                         </div>
                     </div>
@@ -110,21 +111,20 @@
                 <div class="col-lg-6 col-md-12 col-12">
                     <div class="wpo-about-text">
                         <div class="wpo-section-title">
-                            <small>About Eduko</small>
+                            <small>About DKA</small>
                             <h2>
-                                A New Different Way To Improve Your Skills.
+                             WE SEE IT THROUGH.
                             </h2>
                         </div>
                         <p>
-                            Education is one of the most essential and valuable assets that an individual can
-                            possess. It plays a pivotal role in shaping the future of individuals, societies,
-                            and nations. The importance of education cannot be overstated, individuals
-                            development of nations.
+                        At DKA we are more than a school—we are a family dedicated to shaping hearts and minds for a brighter future, cultivating academic success while instilling
+                        leadership qualities rooted in faith, integrity, and compassion.
+                        
                         </p>
                         <p>
-                            One of the primary benefits of education is its ability to empower individuals.
-                            Through education, individuals acquire knowledge, skills, and enable them to
-                            navigate the complexities of life.
+                        Our mission is simple: to inspire students to dream boldly, lead confidently, and serve others with God-given purpose through personalized teaching and a
+                        nurturing environment. Every student is valued, supported, and equipped for a future of significance.
+A                       Academics & Enrichment Programs
                         </p>
                         <a href="about.html" class="theme-btn-s2">Learn More About Us</a>
                     </div>
@@ -140,8 +140,8 @@
         <div class="wpo-subscribe-wrap">
             <div class="subscribe-text">
                 <h3>
-                    Subscribe to our newsletter to receive
-                    latest news on our services.
+                Questions about DKA? Our team’s waiting eagerly to hear from you. Schedule a visit or get in touch today!"
+                .
                 </h3>
             </div>
             <div class="subscribe-form">
@@ -162,8 +162,8 @@
         <div class="row">
             <div class="col-12">
                 <div class="wpo-section-title-s2">
-                    <small>Our Courses</small>
-                    <h2>Explore Courses By Category</h2>
+                    <small>Our Services</small>
+                    <h2>Explore Our options</h2>
                 </div>
             </div>
         </div>
@@ -214,7 +214,7 @@
         <div class="row">
             <div class="col-12">
                 <div class="wpo-section-title-s2">
-                    <small>Contact Us</small>
+                    <small>Contact</small>
                     <h2>Reach out to us</h2>
                 </div>
             </div>
@@ -291,7 +291,7 @@
                                 <li>By <a href="blog-single.html">Anne William</a></li>
                             </ul>
                             <h2>
-                                <a href="blog.html">The Surprising Reason College Tuition Is Crazy Expensive</a>
+                                <a href="blog.html">The Surprising Reason Tuition Is Crazy Expensive</a>
                             </h2>
                             <a href="blog-single.html" class="more">Continue Reading</a>
                         </div>
@@ -307,7 +307,7 @@
                                 <li>26 Sep 2023</li>
                                 <li>By <a href="blog-single.html">Robert Fox</a></li>
                             </ul>
-                            <h2><a href="blog.html">Become a great WordPress & PHP developer.</a></h2>
+                            <h2><a href="blog.html">Maximizing the learing experience.</a></h2>
                             <a href="blog-single.html" class="more">Continue Reading</a>
                         </div>
                     </div>
@@ -322,7 +322,7 @@
                                 <li>28 Sep 2023</li>
                                 <li>By <a href="blog-single.html">Devon Lane</a></li>
                             </ul>
-                            <h2><a href="blog.html">A critical review of mobile learning integration</a></h2>
+                            <h2><a href="blog.html">A critical review of online learning integration</a></h2>
                             <a href="blog-single.html" class="more">Continue Reading</a>
                         </div>
                     </div>

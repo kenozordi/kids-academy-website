@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mbeVbEyOi1c=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user pc\\source\\repos\\kids-academy-website\\kids-academy-website\\kids-academy-website.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user pc\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
