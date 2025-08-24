@@ -48,7 +48,9 @@ jobs:
             **/.github/**
             **/node_modules/**
             **/tests/**
-            **/public/theme/assets/images**
+            **/vendor/**
+            **/public/theme/assets/images/**
+            **/public/index.php
           dangerous-clean-slate: false   # keep previous uploads
 
       - name: Deploy client-side to Hostinger via FTP
@@ -64,6 +66,7 @@ jobs:
             **/.github/**
             **/node_modules/**
             **/tests/**
+            **/vendor/**
             **/public/theme/assets/images/**
             **/public/index.php
           dangerous-clean-slate: false   # keep previous uploads
