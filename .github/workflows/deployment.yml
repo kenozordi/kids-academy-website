@@ -67,6 +67,6 @@ jobs:
             **/node_modules/**
             **/tests/**
             **/vendor/**
-            **/public/theme/assets/images/**
-            **/public/index.php
+            **/theme/assets/images/**
+            **/index.php
           dangerous-clean-slate: false   # keep previous uploads
