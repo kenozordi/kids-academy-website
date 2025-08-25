@@ -37,15 +37,14 @@ jobs:
           password: ${{ secrets.FTP_PASSWORD }}
           local-dir: ./
           server-dir: /kids-academy-website/
+          dangerous-clean-slate: false   # keep previous uploads
           exclude: | 
             **/.git*
             **/.github/**
             **/node_modules/**
             **/tests/**
-            **/vendor/**
             **/public/**
             !/public/.gitkeep
-          dangerous-clean-slate: false   # keep previous uploads
 
       - name: Deploy client-side to Hostinger via FTP
         uses: SamKirkland/FTP-Deploy-Action@v4.3.4
@@ -55,12 +54,10 @@ jobs:
           password: ${{ secrets.FTP_PASSWORD }}
           local-dir: ./public/
           server-dir: /public_html/
+          dangerous-clean-slate: false   # keep previous uploads
           exclude: |
             **/.git*
             **/.github/**
             **/node_modules/**
             **/tests/**
-            **/vendor/**
-            **/theme/assets/images/**
             **/index.php
-          dangerous-clean-slate: false   # keep previous uploads
