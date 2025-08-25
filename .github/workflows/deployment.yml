@@ -43,6 +43,7 @@ jobs:
             **/.github/**
             **/node_modules/**
             **/tests/**
+            **/vendor/**
             **/public/**
             !/public/.gitkeep
 
@@ -60,4 +61,5 @@ jobs:
             **/.github/**
             **/node_modules/**
             **/tests/**
+            **/vendor/**
             **/index.php
