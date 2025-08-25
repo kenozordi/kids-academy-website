@@ -25,16 +25,6 @@ jobs:
       - name: Install Composer dependencies
         run: composer install --no-dev --optimize-autoloader
 
-      - name: Generate Laravel key (only if needed)
-        run: php artisan key:generate --force || true
-
-      - name: Run Laravel optimizations
-        run: |
-          php artisan config:clear
-          php artisan config:cache
-          php artisan route:cache
-          php artisan view:cache
-
       - name: Deploy server-side to Hostinger via FTP
         uses: SamKirkland/FTP-Deploy-Action@v4.3.4
         with:
