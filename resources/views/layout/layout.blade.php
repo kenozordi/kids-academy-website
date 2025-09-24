@@ -39,9 +39,9 @@
                         <div class="col col-lg-7 col-md-12 col-12">
                             <div class="contact-intro">
                                 <ul>
-                                    <li><i class="fi flaticon-phone-call"></i> (307) 555-0133</li>
-                                    <li><i class="fi flaticon-email"></i>demo.Eduko@gmail.com</li>
-                                    <li><i class="fi flaticon-maps-and-flags"></i>244 Royal Ln. Mesa, New Jersey 463
+                                    <li><i class="fi flaticon-phone-call"></i>0803 647 1347</li>
+                                    <li><i class="fi flaticon-email"></i>dka@gmail.com</li>
+                                    <li><i class="fi flaticon-maps-and-flags"></i>123 zone E Resettlement Area, Apo extensiion,FCT Nigeria 
                                     </li>
                                 </ul>
                             </div>
@@ -153,8 +153,8 @@
                                     <a class="navbar-brand" href="index.html"><img src="assets/images/logo-s2.svg"
                                             alt=""></a>
                                 </div>
-                                <p>Mattis inelit neque quis donec eleifnd amet. Amet sed et cursus eu euismod. Egestas
-                                    in morbi tristique ornare vulputate vitae enim.</p>
+                                <p>woah you scrollled all the way to the bottom of the page. <br> 
+                                You must be loving wahtv yuo're seeing <br> Here's some useful links to explore our page more</p>
                                 <div class="social">
                                     <ul>
                                         <li>
@@ -216,11 +216,10 @@
                                 </div>
                                 <div class="contact-ft">
                                     <ul>
-                                        <li><i class="fi flaticon-email"></i>Eduko@gmail.com</li>
-                                        <li><i class="fi flaticon-phone-call"></i>(208) 555-0112 <br>
-                                            (704) 555-0127</li>
-                                        <li><i class="fi flaticon-placeholder"></i>4517 Washington Ave. <br> Manchter,
-                                            Kentucky 495</li>
+                                        <li><i class="fi flaticon-email"></i>dka@gmail.com</li>
+                                        <li><i class="fi flaticon-phone-call"></i>0803 647 1347<br>
+                                            0808 440 4393</li>
+                                        <li><i class="fi flaticon-placeholder"></i>123 zone E Resettlement Area, Apo extensiion,FCT Nigeria </li>
                                     </ul>
                                 </div>
                             </div>
